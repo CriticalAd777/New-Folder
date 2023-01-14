@@ -1,7 +1,6 @@
 {
   "name": "new-folder",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,5 +10,14 @@
   "license": "ISC",
   "devDependencies": {
     "typescript": "^4.9.4"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CriticalAd777/New-Folder.git"
+  },
+  "bugs": {
+    "url": "https://github.com/CriticalAd777/New-Folder/issues"
+  },
+  "homepage": "https://github.com/CriticalAd777/New-Folder#readme",
+  "description": ""
 }
